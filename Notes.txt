@@ -1,0 +1,17 @@
+Blue - #2461b4
+pale blue - #d2d7f0
+
+
+
+  margin-left: 95px;
+  line-height: 25px;
+  font-size: 18px;
+
+
+Image canvas sizes
+
+W - 667
+h - 566 px
+
+
+Animation title 12 frames
